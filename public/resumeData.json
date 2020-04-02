@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Josh Turner",
+    "occupation":"full-stack developer",
+    "occupation2":"graphic designer",
+    "description":"I am a self-driven and motivated individual. When it comes to my work, I believe in simplicity and clarity. I am passionate about providing the best user-experience possible, whether through code or digital design",
+    "image":"profilepic.jpg",
+    "bio":"I currently work remotely as a full-stack developer for a company in Columbus, Ohio, where I've worked for the last 12 years developing desktop and web applications for Ohio's DD community. I am an active learner of all things development-related and I love to spend time learning and growing in new technologies and skills through personal projects and freelance work.",
+    "contactmessage":"Send me a message, I'd love to hear from you!",
+    "email": "cs.pmosh@gmail.com",
+    "phone": "614-682-2427",
+    "address":{
+      "street":"305 Linden Street",
+      "city":"Shreveport",
+      "state":"LA",
+      "zip": "71104"
+    },
+    "website": "https://cspmosh.github.io/",
+    "resumedownload":"https://cspmosh.github.io/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/josh.turner.7121",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/cspmosh",
+        "className":"fa fa-twitter"
+      },      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/joshuaturner/",
+        "className":"fa fa-linkedin"
+      },      
+      {
+        "name":"github",
+        "url":"https://github.com/cspmosh",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of the skills I have actively been using in recent projects, along with my level of comfort in each.",
+    "education":[
+      {
+        "school":"Mount Vernon Nazarene University",
+        "degree":"Bachelor of Science in Computer Science",
+        "graduated":"May 2008",
+        "description":"Knowledge gained in object-oriented programming, datastructures and algorithms, Big-O analysis, relational database design, MVC design pattern, networking, and other software development fundamentals."
+      }
+    ],
+    "work":[
+      {
+        "company":"Primary Solutions",
+        "roles": [
+          {
+          "title":"Desktop Application Developer",
+          "years":"June 2008 - Present",
+          "description":"",
+          "highlights":[
+            "Developed client/server desktop applications utilizing PowerBuilder, VB.Net, and SQL Anywhere", 
+            "Wrote an in-house application to facilitate continuous and fast automated builds with error handling and notifications",
+            "Responsible for setup and maintenance of development and testing environments",
+            "Responsible for application deployment and installation processes",
+            "Database administrator responsibilities including upgrade scripts, database installation, data recovery, and DDL design and development",
+            "Implemented SVN version control for all in-house applications",                             
+            "Received 'Innovation Award' for revolutionizing upgrade process by building intelligent and standardized upgrade SQL scripts for replicating environments",
+            "Wrote an updater application that moved the company from fully manual, on-site installations to fully remote, user-initiated upgrades",
+            "Saved the company hundreds of annual support hours and thousands of annual dollars through innovative software and design"           
+          ]},
+          {        
+          "title":"Full-Stack Web Developer",
+          "years":"November 2012 - Present",
+          "description":"",
+          "highlights":[
+            "Designed and developed company website",
+            "Developed multi-tier web applications utilizing HTML5, CSS, and Jquery on the front-end and WCF web services on the back end",
+            "Improved our C# back-end architecture by integrating atomic transactions and by making the session management logic more efficient",
+            "Installed and configured server-side components like PHP, mail servers, certificates, and IIS"
+          ]}
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"PowerBuilder",
+        "level":"100%"
+      },
+      {
+        "name":"SQL Anywhere",
+        "level":"100%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      }, 
+      {
+        "name":"Java",
+        "level":"40%"
+      }, 
+      {
+        "name":"Ruby on Rails",
+        "level":"80%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"VB",
+        "level":"70%"
+      },
+      {
+        "name":"Xamarin Forms",
+        "level":"30%"
+      } 
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"'Binary Greek' Watchface for Samsung Galaxy Watch",
+        "category":"Tizen .Net C# Xamarin Forms",
+        "image":"binary-geek-watchface.png",
+        "url":"https://github.com/cspmosh/BinaryWatchFace"
+      },
+      {
+        "title":"Budgeteer Web Application",
+        "category":"Full-stack budgeting application (MySQL, VB.net, WCF, .Net MVC 2.0)",
+        "image":"budgeteer.png",
+        "url":"https://github.com/cspmosh/Budgeteer"
+      },
+      {
+        "title":"CashTrack Web Application",
+        "category":"Budgeting application utilizing Ruby on Rails",
+        "image":"cashtrack.png",
+        "url":"https://github.com/cspmosh/CashTrack"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
