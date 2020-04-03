@@ -65,7 +65,7 @@ header .banner-text h1 {
    text-shadow: 1px 2px 3px black;
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'Roboto Condensed', serif;
+   font: 18px/1.9em 'librebaskerville-regular', serif;
    color: #DDDDDD;
    margin: 0 auto;
    width: 70%;
