@@ -10,10 +10,10 @@
     "email": "cs.pmosh@gmail.com",
     "phone": "614-682-2427",
     "address":{
-      "street":"305 Linden Street",
-      "city":"Shreveport",
-      "state":"LA",
-      "zip": "71104"
+      "street":"2513 Jennie Byrd Cove",
+      "city":"Chapel Hill",
+      "state":"TN",
+      "zip": "37034"
     },
     "website": "https://cspmosh.github.io/",
     "resumedownload":"josh-turner-resume.pdf",
@@ -27,12 +27,12 @@
         "name":"twitter",
         "url":"https://twitter.com/cspmosh",
         "className":"fa fa-twitter"
-      },      
+      },
       {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/joshuaturner/",
         "className":"fa fa-linkedin"
-      },      
+      },
       {
         "name":"github",
         "url":"https://github.com/cspmosh",
@@ -52,26 +52,40 @@
     ],
     "work":[
       {
+        "company":"Ramsey Solutions",
+        "roles": [
+          {
+            "title":"Software Engineer 2",
+            "years":"July 2020 - present",
+            "description":"",
+            "highlights":[
+              "Developed and maintained various web applications and APIs for the Ramsey Trusted real estate referral program",
+              "Worked with marketing to create various tools and AB tests to improve SEO for various real estate web pages",
+              "Worked with the Ramsey education platform squad to develop and maintain our digital platforms for Ramsey Classroom and Ramsey Homeschool"
+            ]}
+        ]
+      },
+      {
         "company":"Primary Solutions",
         "roles": [
           {
           "title":"Desktop Application Developer",
-          "years":"June 2008 - Present",
+          "years":"June 2008 - July 2020",
           "description":"",
           "highlights":[
-            "Developed client/server desktop applications utilizing PowerBuilder, VB.Net, and SQL Anywhere", 
+            "Developed client/server desktop applications utilizing PowerBuilder, VB.Net, and SQL Anywhere",
             "Wrote an in-house application to facilitate continuous and fast automated builds with error handling and notifications",
             "Responsible for setup and maintenance of development and testing environments",
             "Responsible for application deployment and installation processes",
             "Database administrator responsibilities including upgrade scripts, database installation, data recovery, and DDL design and development",
-            "Implemented SVN version control for all in-house applications",                             
+            "Implemented SVN version control for all in-house applications",
             "Received 'Innovation Award' for revolutionizing upgrade process by building intelligent and standardized upgrade SQL scripts for replicating environments",
             "Wrote an updater application that moved the company from fully manual, on-site installations to fully remote, user-initiated upgrades",
-            "Saved the company hundreds of annual support hours and thousands of annual dollars through innovative software and design"           
+            "Saved the company hundreds of annual support hours and thousands of annual dollars through innovative software and design"
           ]},
-          {        
+          {
           "title":"Full-Stack Web Developer",
-          "years":"November 2012 - Present",
+          "years":"November 2012 - July 2020",
           "description":"",
           "highlights":[
             "Designed and developed company website",
@@ -93,7 +107,7 @@
       },
       {
         "name":"Git",
-        "level":"75%"
+        "level":"90%"
       },
       {
         "name":"Illustrator",
@@ -105,23 +119,23 @@
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"JavaScript",
-        "level":"50%"
-      }, 
+        "level":"70%"
+      },
       {
         "name":"Java",
         "level":"40%"
-      }, 
+      },
       {
         "name":"Ruby on Rails",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"C#",
@@ -134,7 +148,7 @@
       {
         "name":"Xamarin Forms",
         "level":"30%"
-      } 
+      }
     ]
   },
   "portfolio":{
